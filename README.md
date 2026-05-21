@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/liu26570" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=liu26570&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu26570)
+
   </a>
 </p>
 
