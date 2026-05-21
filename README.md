@@ -1,12 +1,52 @@
-
-
-<h1 align="center">👋 Hello, I'm liu26570</h1>
+<h1 align="center">liu26570</h1>
 
 <p align="center">
-  <strong>Passionate Security Engineer | Backend Developer | Lifelong Learner</strong><br>
-  <em> 网络安全爱好者 | 后端开发工程师 | 努力成为更好的自己</em>
+Software Engineer · Backend · Security Learner
 </p>
 
+---
+
+## Summary
+
+I am focused on backend systems, Linux environment, and basic security research.  
+Currently improving system design fundamentals, networking, and secure coding practices.
+
+---
+
+## Core Areas
+
+- Backend Development (APIs / services)
+- Linux system & networking basics
+- Web security fundamentals (XSS / SQLi / authentication)
+- Automation tools and scripting
+
+---
+
+## Projects
+
+### Blender Automation Tool
+A tool designed to improve 3D annotation workflow efficiency.  
+- Python-based Blender scripting  
+- Automates repetitive production tasks  
+- Focus on pipeline optimization  
+
+### Security Lab Notes
+Personal learning environment for web security practice.  
+- XSS / SQL injection experiments  
+- Authentication flow analysis  
+- Vulnerability reproduction notes  
+
+---
+
+## Tech Stack
+
+Languages: C, C++, Python, Go  
+Backend: basic web service development  
+Tools: Linux, Git, Docker  
+
+---
+
+## GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu26570/liu26570/output/github-contribution-grid-snake-dark.svg">
@@ -14,53 +54,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liu26570/liu26570/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ---
 
-## 🚀 技能 & 技术栈
+## Contact
 
-<p align="center">
-  <!-- 语言 -->
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff" height="28" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff" height="28" />
-  <img alt="C#" src="https://img.shields.io/badge/GO-239120?logo=csharp&logoColor=fff" height="28" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff" height="28" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-7A736E?logo=java&logoColor=fff" height="28" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=fff" height="28" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="28" />
-</p>
-
-
----
-
-## 🛠️ 开发工具 & 环境
-
-<p align="center">
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff" height="28" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=fff" height="28" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=fff" height="28" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-AF1DF5?logo=intellijidea&logoColor=fff" height="28" />
-  <img alt="Keil" src="https://img.shields.io/badge/Keil-0091BD?logo=arm&logoColor=fff" height="28" />
-</p>
-
-
----
-
-## 🌏 平台与系统
-
-<p align="center">
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows_11-0078D6?logo=windows&logoColor=fff" height="28" />
-</p>
-
-
----
-
-## 📫 联系我
-
-<p align="center">
-  <a href="mailto:liu26570@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a>
-</p>
-
+Email: liu26570@gmail.com  
 
 ---
 
