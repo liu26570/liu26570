@@ -8,12 +8,9 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/liu26570" target="_blank" rel="noopener noreferrer">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu26570)
 
-  </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu26570)
+
 
 
 ---
