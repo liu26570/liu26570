@@ -8,10 +8,11 @@
 </p>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu26570)
-
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=liu26570&show_icons=true&theme=tokyonight"
+  />
+</p>
 
 ---
 
