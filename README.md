@@ -4,15 +4,16 @@
 
 <p align="center">
   <strong>Passionate Security Engineer | Backend Developer | Lifelong Learner</strong><br>
-  <em>🔒 网络安全爱好者 | 后端开发工程师 | 努力成为更好的自己</em>
+  <em> 网络安全爱好者 | 后端开发工程师 | 努力成为更好的自己</em>
 </p>
 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=liu26570&show_icons=true&theme=tokyonight"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
