@@ -8,33 +8,8 @@ Software Engineer · Backend · Security Learner
 
 ## Summary
 
-I am focused on backend systems, Linux environment, and basic security research.  
+I am focused on backend systems and basic security research.I am focused on backend systems, Linux environment, and basic security research.  
 Currently improving system design fundamentals, networking, and secure coding practices.
-
----
-
-## Core Areas
-
-- Backend Development (APIs / services)
-- Linux system & networking basics
-- Web security fundamentals (XSS / SQLi / authentication)
-- Automation tools and scripting
-
----
-
-## Projects
-
-### Blender Automation Tool
-A tool designed to improve 3D annotation workflow efficiency.  
-- Python-based Blender scripting  
-- Automates repetitive production tasks  
-- Focus on pipeline optimization  
-
-### Security Lab Notes
-Personal learning environment for web security practice.  
-- XSS / SQL injection experiments  
-- Authentication flow analysis  
-- Vulnerability reproduction notes  
 
 ---
 
