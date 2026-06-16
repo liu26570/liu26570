@@ -1,27 +1,21 @@
 <h1 align="center">liu26570</h1>
 
 <p align="center">
-Software Engineer · Backend · Security Learner
+  Learning, building, and recording.
 </p>
 
 ---
 
-## Summary
+### About
 
-I am focused on backend systems and basic security research.I am focused on backend systems, Linux environment, and basic security research.  
-Currently improving system design fundamentals, networking, and secure coding practices.
+I am still on the road.
 
----
-
-## Tech Stack
-
-Languages: C, C++, Python, Go  
-Backend: basic web service development  
-Tools: Linux, Git, Docker  
+I care about clarity, reliability, and long-term growth.  
+This profile is mainly used to record traces of learning, experiments, and personal projects.
 
 ---
 
-## GitHub Stats
+### GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu26570/liu26570/output/github-contribution-grid-snake-dark.svg">
@@ -31,12 +25,12 @@ Tools: Linux, Git, Docker
 
 ---
 
-## Contact
+### Contact
 
-Email: liu26570@gmail.com  
+Email: [liu26570@gmail.com](mailto:liu26570@gmail.com)
 
 ---
 
-<p align="center" style="font-size: 0.9em; color: #888;">
-  Made with ❤️ by liu26570
+<p align="center">
+  Made with care by liu26570
 </p>
